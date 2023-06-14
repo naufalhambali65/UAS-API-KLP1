@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="UASKELOMPOK1API">
+      <HintPath>..\..\UASKELOMPOK1API\UASKELOMPOK1API\bin\Debug\net6.0\UASKELOMPOK1API.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
