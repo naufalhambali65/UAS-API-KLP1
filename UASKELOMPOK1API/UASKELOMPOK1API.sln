@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UASKELOMPOK1API", "UASKELOMPOK1API\UASKELOMPOK1API.csproj", "{47FCC35B-B254-460B-B347-6E0C333B1A82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47FCC35B-B254-460B-B347-6E0C333B1A82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47FCC35B-B254-460B-B347-6E0C333B1A82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47FCC35B-B254-460B-B347-6E0C333B1A82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47FCC35B-B254-460B-B347-6E0C333B1A82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1D579CE-80B0-4B6F-B5CB-1A75C7E758FC}
+	EndGlobalSection
+EndGlobal
